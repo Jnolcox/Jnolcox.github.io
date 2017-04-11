@@ -26,7 +26,8 @@ h6 {
   color: #778492;
 }
 a {
-  color: #3AAA64;
+  color: #479FC8;
+  /*originally #3AAA64*/
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -35,7 +36,8 @@ a {
 a:hover {
   text-decoration: underline;
   color: #5f6b77;
-  color: #2d844e;
+  color: #479FC8;
+  /*originally #3AAA64*/
 }
 a:focus {
   text-decoration: none;
@@ -60,16 +62,18 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #479FC8;
+  /*originally #3AAA64*/
+  border: 1px solid #479FC8;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #479FC8;
+  /*originally #3AAA64*/
+  border: 1px solid #479FC8;
   color: #fff;
 }
 a.btn-cta-secondary,
@@ -90,7 +94,8 @@ a.btn-cta-secondary:hover,
   color: #32383e;
 }
 .label-theme {
-  background: #3AAA64;
+  background: #479FC8;
+  /*originally #3AAA64*/
   font-size: 12px;
 }
 a.dotted-link {
@@ -234,7 +239,8 @@ iframe {
   position: relative;
 }
 .latest .featured-image .text {
-  background: #3AAA64;
+  background: #479FC8;
+  /*originally #3AAA64*/
   color: #fff;
 }
 .latest .featured-image .ribbon {
@@ -381,7 +387,8 @@ iframe {
 }
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #479FC8;
+  /*originally #66CB8C*/
 }
 /* Testimonials section */
 .testimonials .item {
@@ -448,7 +455,8 @@ iframe {
   margin-bottom: 0;
 }
 .languages .item .fa {
-  color: #79d19a;
+  color: #479FC8;
+  /*originally #79D19A*/
 }
 /* Blog Section */
 .blog .item {
